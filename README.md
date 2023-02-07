@@ -1,2 +1,2 @@
 # Find-classify-new-notices
-![alt text](https://drive.google.com/file/d/1eSTyZRCIdCh2O9Iw-8wzzKjFuHg0tFhx/view?usp=share_link)
+<img width="824" alt="Design" src="https://user-images.githubusercontent.com/97786915/217268632-c31af937-2809-414c-bf7a-3b1dd8ec5c7f.png">
